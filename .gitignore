@@ -1,0 +1,9 @@
+.idea
+bin
+obj
+.terraform
+aws/terraform/.terraform.lock.hcl
+helm/**/charts/*
+.vs
+*.user
+.DS_Store
